@@ -1,0 +1,1 @@
+Destroy flying asteroids with your lasers. Multiplayer combats coming soon!
